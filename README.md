@@ -1,0 +1,1 @@
+Bash parsing error on line 1: import random ^^^^^^^^^^^^^^ Bash parsing error on line 3, column 28: def roblox_password_guesser(): ^^^ Bash parsing error on line 32, column 35: guessed_password = "".join(random.choice(possible_characters) for _ in range(len(actual_password))) ^ 3 more Bash parsing errors omitted
